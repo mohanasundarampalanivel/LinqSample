@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1001,
+    "Name": "Arun",
+    "DeptID": 110,
+    "DeptName": "BIGDATA",
+    "Salary": 10000
+  },
+  {
+    "id": 1002,
+    "Name": "Bala",
+    "DeptID": 110,
+    "DeptName": "BIGDATA",
+    "Salary": 20000
+  },
+  {
+    "id": 1003,
+    "Name": "careena",
+    "DeptID": 110,
+    "DeptName": "BIGDATA",
+    "Salary": 30000
+  },
+  {
+    "id": 1004,
+    "Name": "david",
+    "DeptID": 107,
+    "DeptName": "IO",
+    "Salary": 40000
+  },
+  {
+    "id": 1005,
+    "Name": "Edwin",
+    "DeptID": 107,
+    "DeptName": "IO",
+    "Salary": 50000
+  },
+  {
+    "id": 1006,
+    "Name": "Fransis",
+    "DeptID": 107,
+    "DeptName": "IO",
+    "Salary": 60000
+  },
+  {
+    "id": 1007,
+    "Name": "Gokul",
+    "DeptID": 111,
+    "DeptName": "PDF",
+    "Salary": 70000
+  },
+  {
+    "id": 1008,
+    "Name": "Harris",
+    "DeptID": 111,
+    "DeptName": "PDF",
+    "Salary": 80000
+  },
+  {
+    "id": 1009,
+    "Name": "Isac",
+    "DeptID": 111,
+    "DeptName": "PDF",
+    "Salary": 90000
+  },
+  {
+    "id": 1010,
+    "Name": "Jegan",
+    "DeptID": 103,
+    "DeptName": "DASHBOARD",
+    "Salary": 100000
+  },
+  {
+    "id": 1011,
+    "Name": "Karthik",
+    "DeptID": 103,
+    "DeptName": "DASHBOARD",
+    "Salary": 110000
+  },
+  {
+    "id": 1012,
+    "Name": "Lakshman",
+    "DeptID": 103,
+    "DeptName": "DASHBOARD",
+    "Salary": 120000
+  }
+]
